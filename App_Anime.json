@@ -3,13 +3,13 @@
     "Titulo": "Zoids",
     "Nombre": "El joven del planeta Zid"
     "Codigo": "x7uitsc",
-    "episode": 1,
+    "NumeroEpisodio": 1,
     "img": "https://github.com/EduardoVargas222/Anime/blob/master/Portada.jpg?raw=true"},
   {
     "Titulo": "Zoids",
     "Nombre": ""
     "Codigo": "x7uitsc",
-    "episode": 2,
+    "NumeroEpisodio": 2,
     "img": "https://github.com/EduardoVargas222/Anime/blob/master/Portada.jpg?raw=true"},
   }
   
